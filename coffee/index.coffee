@@ -8,4 +8,4 @@ g = (name, args...) ->
 g.attrs = {}
 g.set = (name, status) -> g.attrs[name] = status
 
-exports.group = g
+exports.g = g
