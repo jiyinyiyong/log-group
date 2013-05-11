@@ -1,0 +1,25 @@
+{
+  "name": "log-group",
+  "version": "0.0.1",
+  "description": "use a group to manager logs",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "calabash": "*"
+  },
+  "scripts": {
+    "test": "node-dev dev.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiyinyiyong/log-group.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "jiyinyiyong",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
